@@ -10,6 +10,7 @@ export default class extends React.Component {
     popular: null,
     error: null,
     loading: true
+    //Start
   };
 
   async componentDidMount() {
